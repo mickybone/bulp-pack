@@ -360,7 +360,7 @@ $table-border-color:            $gray-lighter !default;
 // For each of Bootstrap's buttons, define text, background and border color.
 
 $btn-padding-x:                  1rem !default;
-$btn-padding-y:                  .5rem !default;
+$btn-padding-y:                  .45rem !default;
 $btn-line-height:                1.25 !default;
 $btn-font-weight:                $font-weight-normal !default;
 $btn-box-shadow:                 inset 0 1px 0 rgba($white,.15), 0 1px 1px rgba($black,.075) !default;
@@ -394,10 +394,10 @@ $btn-danger-border:              $btn-danger-bg !default;
 $btn-link-disabled-color:        $gray-light !default;
 
 $btn-padding-x-sm:               .5rem !default;
-$btn-padding-y-sm:               .25rem !default;
+$btn-padding-y-sm:               .3rem !default;
 
 $btn-padding-x-lg:               1.5rem !default;
-$btn-padding-y-lg:               .75rem !default;
+$btn-padding-y-lg:               .6rem !default;
 
 $btn-block-spacing-y:            .5rem !default;
 $btn-toolbar-margin:             .5rem !default;
